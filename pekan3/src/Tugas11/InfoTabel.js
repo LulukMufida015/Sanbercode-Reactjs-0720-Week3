@@ -1,4 +1,5 @@
 import React from 'react';
+import Timer from '../Tugas12/Timer';
 
 class Nama extends React.Component {
     render() {
@@ -46,6 +47,7 @@ class InfoTabel extends React.Component {
                             )
                         })}
                     </table>
+                    <Timer />
                 </div>
             </>
         )

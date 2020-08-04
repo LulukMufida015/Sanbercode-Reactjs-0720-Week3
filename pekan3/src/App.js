@@ -4,6 +4,7 @@ import './App.css';
 import Tugas11 from './Tugas11/InfoTabel'
 import InfoTabel from './Tugas11/InfoTabel';
 
+
 function App() {
   return (
     <div>

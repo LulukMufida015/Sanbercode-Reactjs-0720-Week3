@@ -75,3 +75,7 @@ th {
 td {
   background-color: coral;
 }
+
+.mundur {
+  float: right;
+}
