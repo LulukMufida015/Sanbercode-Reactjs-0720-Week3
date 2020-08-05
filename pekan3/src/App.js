@@ -1,14 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Tugas11 from './Tugas11/InfoTabel'
-import InfoTabel from './Tugas11/InfoTabel';
-
+import Tugas13 from './Tugas13/Lists'
+import Lists from './Tugas13/Lists'
 
 function App() {
   return (
     <div>
-      <InfoTabel />
+      <Lists />
     </div>
   );
 }
