@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Tugas13 from './Tugas13/Lists'
-import Lists from './Tugas13/Lists'
+import Tugas14 from './Tugas14/Hooks'
+import Lists from './Tugas14/Hooks';
 
 function App() {
   return (
