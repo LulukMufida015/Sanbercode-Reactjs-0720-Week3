@@ -1,14 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
+import Nav from './navbar';
+import Routes from './router'
 import './App.css';
-import Tugas14 from './Tugas14/Hooks'
-import Lists from './Tugas14/Hooks';
+import { BrowserRouter as Router } from "react-router-dom";
 
 function App() {
   return (
-    <div>
-      <Lists />
-    </div>
+    <Router>
+      <Nav/>
+      <Routes/>
+    </Router>
   );
 }
 
